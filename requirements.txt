@@ -1,0 +1,4 @@
+flask
+numpy
+wikipedia
+gunicorn
